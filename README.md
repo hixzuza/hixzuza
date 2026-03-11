@@ -10,11 +10,12 @@
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages  
-![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white)  
-![JavaFX](https://blog.nashtechglobal.com/wp-content/uploads/2024/01/communityIcon_4v21sx0aiam41.png)  
+![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=openjdk&logoColor=white)  
+![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=flat&logo=openjdk&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![NASM](https://img.shields.io/badge/NASM%20Assembly-6E4C13?style=flat&logo=gnubash&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
